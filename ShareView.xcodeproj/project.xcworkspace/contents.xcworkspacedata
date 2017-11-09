@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:YYShareView.xcodeproj">
+      location = "self:/Users/wumingzhi/Desktop/HJLive/YYShareView_demo2/ShareView.xcodeproj">
    </FileRef>
 </Workspace>
